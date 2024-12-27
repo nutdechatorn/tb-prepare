@@ -54,7 +54,7 @@ echo "🛠️ ตั้งค่าตัวแปรสิ่งแวดล้
 
 # สร้างไฟล์โปรไฟล์สำหรับ Java
 sudo bash -c 'cat <<EOL > /etc/profile.d/jdk.sh
-export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-arm64
 export PATH=\$JAVA_HOME/bin:\$PATH
 EOL'
 
