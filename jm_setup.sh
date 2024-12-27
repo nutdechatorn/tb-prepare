@@ -69,8 +69,6 @@ sudo chmod +x /etc/profile.d/jdk.sh
 sudo chmod +x /etc/profile.d/maven.sh
 
 # โหลดโปรไฟล์ใหม่
-echo "---- Wait 2 Sec -----"
-sleep 2
 
 source /etc/profile.d/jdk.sh
 source /etc/profile.d/maven.sh
