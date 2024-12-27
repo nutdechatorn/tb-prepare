@@ -69,6 +69,9 @@ sudo chmod +x /etc/profile.d/jdk.sh
 sudo chmod +x /etc/profile.d/maven.sh
 
 # โหลดโปรไฟล์ใหม่
+
+cd\
+
 source /etc/profile.d/jdk.sh
 source /etc/profile.d/maven.sh
 
